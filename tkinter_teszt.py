@@ -122,7 +122,7 @@ class Form(tk.Tk):
 
 if __name__ == "__main__":
     
-    combo_values = ["Juni","July","August"]
+    combo_values = ["June","July","August"]
 
     tc = Form()
     
